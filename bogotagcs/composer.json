@@ -1,0 +1,13 @@
+{
+    "name": "nesto/bogotagcs",
+    "description": "Bogotá cloud services",
+    "type": "project",
+    "require": {
+        "google/cloud-bigquery": "^1.23"
+    },
+    "authors": [
+        {
+            "name": "Nestor Goyes"
+        }
+    ]
+}
